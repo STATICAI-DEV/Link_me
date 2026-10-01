@@ -1,10 +1,7 @@
-# Blu Static Website
+# STATICWEB
 
-© 2026 Blu Static. All rights reserved.
+StaticAI public website and browser-local business operations test build.
 
-This repository contains the public promotional website for Blu Static.
+**Slogan:** Imagine Reality.
 
-No licence is granted for reuse, copying, modification, redistribution, or commercial use of the HTML, images, branding, character concepts, or related creative assets without written permission.
-
-
-Update: Backdrop is embedded directly in index.html as a data URI, so no separate backdrop image file is required.
+This branch intentionally replaces the previous Link_me site contents. No previous site files are retained in the current branch snapshot.
